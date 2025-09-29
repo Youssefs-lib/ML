@@ -29,7 +29,7 @@ Focused on videos discussing Saad Lamjarred’s case.
 
 2. Preprocessing
 
-Normalization of text (Arabic + Latin Darija).
+Normalization of text (Arabic + Darija).
 
 Tokenization and stop-word removal.
 
