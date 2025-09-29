@@ -27,7 +27,6 @@ We built a **machine learning pipeline** to classify, analyze, and visualize rea
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TF--IDF-2E77BC?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=git,github" />
   <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
