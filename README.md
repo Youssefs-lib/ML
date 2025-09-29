@@ -9,7 +9,7 @@
 
 ## 📖 Project Overview  
 
-This project analyzes **YouTube comments in Darija (Moroccan dialect)** — written in both **Arabic script** and **Latin alphabet (abc)** — to capture public sentiment on the **rape conviction of Moroccan singer Saad Lamjarred**.  
+This project analyzes **YouTube comments in Darija (Moroccan dialect)** — written in **Arabic script** ** — to capture public sentiment on the **rape conviction of Moroccan singer Saad Lamjarred**.  
 
 We built a **machine learning pipeline** to classify, analyze, and visualize reactions:  
 
